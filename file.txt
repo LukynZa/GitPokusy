@@ -1,6 +1,1 @@
-testování nové funkcionality
-
-
-novější změny
-
 changes in this document what I did
